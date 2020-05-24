@@ -1,11 +1,14 @@
 # Automated essay scoring tool for the Russian Unified State Exam preparation and assessment
 
-Can automated essay scoring be used to improve teaching and assessment practices in teaching writing in English as a foreign language to Russian-speaking students?
-My aspiration is to design an automated essay scoring tool for students and teachers of English as a foreign language, which can potentially be developed into a nationwide exam assessment platform, bringing together computational linguistics and empirical educational science to improve teaching and assessment practices and promote equality in education.
+*Can automated essay scoring be used to improve teaching and assessment practices in teaching writing in English as a foreign language to Russian-speaking students?*
+
+*My aspiration is to design an automated essay scoring tool for students and teachers of English as a foreign language, which can potentially be developed into a nationwide exam assessment platform, bringing together computational linguistics and empirical educational science to improve teaching and assessment practices and promote equality in education.*
 
 For the past 8 years I have been working as an English language instructor at a university (teaching English language majors) and a private language school (providing tutoring for schoolchildren) in a remote region of Russia. Alongside teaching, I worked as a Secondary Education Unified State Exam (USE) Assessor within the Regional Examining Board for 5 years. 
+
 Both as a teacher and an assessor I observed difficulties in teaching written speech in English as a foreign language and grading it at final exams. 
-Here are some of my observations.
+
+Here are some of my observations:
 
 ### A teacher’s perspective
 
