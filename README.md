@@ -36,7 +36,7 @@ A possible solution to the problem would be to create a tool to facilitate asses
 
 ### Possible solution - Automated essay scoring tool
 
-My idea is to create an automated essay scoring tool which could (1) ease the workload and make up for teachers' lack of training, (2) provide a self-learning tool for less privileged students, (3) provide training opportunities for exam raters, (4) perspectively be used as a part of the national examination assessment system. 
+My idea is to create an automated essay scoring tool which could (1) ease the workload and make up for teachers' lack of training, (2) provide a self-learning tool for less privileged students, (3) provide training opportunities for exam raters, (4) prospectively be used as a part of the national examination assessment system. 
 
 The tool should have the following functions:
 
