@@ -4,7 +4,7 @@
 
 *My aspiration is to design an automated essay scoring tool for students and teachers of English as a foreign language, which can potentially be developed into a nationwide exam assessment platform, bringing together computational linguistics and empirical educational science to improve teaching and assessment practices and promote equality in education.*
 
-For the past 8 years I have been working as an English language instructor at a university (teaching English language majors) and a private language school (providing tutoring for schoolchildren) in a remote region of Russia. Alongside teaching, I worked as a Secondary Education Unified State Exam (USE) Assessor within the Regional Examining Board for 5 years. 
+For the past 8 years I have been working as an English language instructor at a university (teaching English language majors) and a private language school (providing tutoring for secondary and high school students) in a remote region of Russia. Alongside teaching, I worked as a Secondary Education Unified State Exam (USE) Assessor within the Regional Examining Board for 5 years. 
 
 Both as a teacher and an assessor I observed difficulties in teaching written speech in English as a foreign language and grading it at final exams. 
 
@@ -24,7 +24,7 @@ Thus, school-leavers hoping for high scores in their final exams have to rely on
 
 The Unified State Exam (USE) in foreign languages was introduced in 2009. It is a nation-wide exam which serves both as a school-leaving and an entrance examination to universities.
 
-Its positive effect on higher education opportunities equality is hard to overestimate, since it sets a national standard and gives a opportunity to school-leavers from remote regions to compete for places in top universities.
+Its positive effect on higher education opportunities equality is hard to overestimate, since it sets a national standard and gives an opportunity to school-leavers from remote regions to compete for places in top Russian universities.
 
 Since its establishment, the USE has undergone substantial changes and improvements. However, it still arouses criticism, and open-ended, human-graded writing tasks are a particular point of controversy.  
 
@@ -32,18 +32,19 @@ Each exam paper is graded by two assessors anonymously and independently, and in
 
 In spite of all the effort put into developing assessment guidelines (which are holistic in character and can still be interpreted ambiguously) and training experts (the training system is very formal in character), there is still a lack of assessment uniformity. The situation is made worse by imperfections of the assessors themselves: their qualification (which varies greatly across the country), personal traits (e.g. empathy level), rater fatigue and others. As a result, the discrepancy percentage in my region (according to annual reports by the Regional Examining Board) is up to 30%. 
 
-A possible solution to the problem would be to create a tool to facilitate assessment ensuring uniformity on certain criteria.
+A possible solution to the problem would be to create a tool to facilitate assessment which could ensure uniformity on certain criteria.
 
 ### Possible solution - Automated essay scoring tool
 
-A solution to the problem seems to lie in creating an automated essay scoring tool which could (1) ease the workload and complement the lack of training for teachers, (2) provide a self-learning tool for less privileged students, (3) provide training opportunities for exam raters, (4) perspectively be used as a part of the national examination assessment system. 
+My idea is to create an automated essay scoring tool which could (1) ease the workload and make up for teachers' lack of training, (2) provide a self-learning tool for less privileged students, (3) provide training opportunities for exam raters, (4) perspectively be used as a part of the national examination assessment system. 
+
 The tool should have the following functions:
 
-1. Score essays on the criteria of vocabulary use, grammar, spelling and punctuation mistakes.
+1. Score essays on the criteria including vocabulary use, grammar, spelling and punctuation mistakes.
 
 2. Generate feedback on what types of mistakes were made by the student in the listed criteria and provide guidelines for revision.
 
-3. Score the level of language complexity according to the CEFR.
+3. Score the level of language complexity according to the Common European Framework of Reference.
 
 4. Check the appropriacy of the use of cohesive ties and generate feedback on mistakes and misuses.
 
@@ -52,9 +53,9 @@ The tool should have the following functions:
 ### A programmer’s perspective
 
 When I got the idea of addressing computational linguistics and natural language processing to tackle the described problem, I was overwhelmed at the heated debate going on around AES. 
+
 I do not believe that an automated scoring tool can completely replace a human rater, but I really hope that such a tool could benefit all the parties involved.
 However, being new to CL and NLP, I find it difficult to see to which extent my idea is feasible. 
-
 
 Here is a list of articles I have studied and some comments on them, would be grateful if you could recommend more. 
 
